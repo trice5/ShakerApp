@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="x">X:</string>
+    <string name="change_text">Change Text</string>
+    <string name="the_3d_acceleration_values_are">The 3D acceleration values are</string>
+</resources>
